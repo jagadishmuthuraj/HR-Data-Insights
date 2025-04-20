@@ -91,6 +91,7 @@ The HR Dashboard reveals a dynamic picture of organizational growth and workforc
 
 The organization has a balanced and diverse workforce with a total headcount of 1000, slightly favoring female employees Strong presence in the United States and steady hiring growth reflect business expansion and operational strength.A young employee base and well-distributed job roles indicate readiness for innovation and leadership development.
 
+
   
 
 
