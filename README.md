@@ -78,7 +78,12 @@ This HR Dashboard provides a comprehensive overview of the organization's workfo
 ---
 
 ## 📌 Dashboard Overview
-![HR Analysis Dashboard Overview ](https://github.com/user-attachments/assets/45db8d5b-af11-45a6-a8d8-8a5f9a434b6a)
+![HR Analysis Dashboard Overview ](https://github.com/user-attachments/assets/45db8d5b-af11-45a6-a8d8-8a5f9a434b6a) 
+
+
+### 🚀 Overall Development
+
+The HR Dashboard reveals a dynamic picture of organizational growth and workforce development over the years. From a modest beginning in the early 1990s, the company has seen a steady and sharp rise in employee headcount, particularly after 2020 — a sign of rapid scaling and strategic hiring. The distribution of employees across departments, business units, and global locations like the United States, China, and Brazil reflects a well-structured and diverse workforce. Additionally, the dashboard showcases balanced gender representation and a wide age range, signaling the company’s focus on inclusion, experience diversity, and sustainable talent development.
 
 
 
