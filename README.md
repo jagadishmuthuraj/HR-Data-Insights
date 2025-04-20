@@ -78,4 +78,6 @@ This HR Dashboard provides a comprehensive overview of the organization's workfo
 ---
 
 ## 📌 Dashboard Overview
+https://github.com/jagadishmuthuraj/HR-Data-Insights/blob/main/HR%20Analysis%20Dashboard%20Overview%20.png
+
 
