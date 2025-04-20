@@ -77,12 +77,5 @@ This HR Dashboard provides a comprehensive overview of the organization's workfo
 
 ---
 
-## 📌 Summary
+## 📌 Dashboard Overview
 
-This dashboard enables HR and leadership teams to:
-- Gain quick, actionable insights.
-- Monitor KPIs in real time.
-- Improve strategic workforce decisions.
-- Align human capital with business goals.
-
-- 
